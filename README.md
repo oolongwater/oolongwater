@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @oolongwater69, and I'm VERY new to CS
-- 👀 I’m interested in building software, but I'm still exploring different stuff in CS 
-- 🌱 I’m currently learning Harvard's CS50x OpenCourseWare
-- 💞️ I’m looking to collaborate on any internships or attachments related to CS :)
+- 👋 Hi, I’m Ewen, and I'm in NUS Computer Science
+- 👀 I’m interested in building software, or anything related to AI or CS
+- I’m looking to collaborate on any internships or attachments related to CS 
 - 📫 How to reach me: ewenlow02@gmail.com
 
 <!---
